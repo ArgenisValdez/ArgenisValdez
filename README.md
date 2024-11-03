@@ -10,12 +10,11 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-- :school: I am a `Junior` at Universidad Autonoma de Santo Domingo (UASD) from Domican Republic 🇩🇴.
+- :school: I am a `Junior Dev` at Universidad Autonoma de Santo Domingo (UASD) from Domican Republic 🇩🇴.
 -  👨‍💻: Certifications in [Platzi](https://platzi.com/p/argenisvalde80/) and [Udemy](https://ude.my/UC-65539af6-2447-4a90-9010-9a5d4730619b)
 - :technologist: **Open to work**
 - :muscle: **Dedicated to personal and professional growth!**
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ArgenisValdez&amp;color=EA4335&amp;style=flat-square)](mailto:argenisvalde80@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
 
 
 <br>
@@ -57,7 +56,7 @@
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/oraclebrain/count.svg"/>
+  <img src="https://profile-counter.glitch.me/ArgenisValdez/count.svg"/>
 
 
 
