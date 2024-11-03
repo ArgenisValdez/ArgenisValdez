@@ -51,3 +51,9 @@
 
 <br>
 
+<p align="center"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/oraclebrain/count.svg"/>
+
+
+
