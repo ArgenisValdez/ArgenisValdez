@@ -4,6 +4,10 @@
   </ul>
 </div>
 
+<a href="https://github.com/ArgenisValdez">
+    <img src="contributions.svg" />
+  </a>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - :school: I am a `Junior` at Universidad Autonoma de Santo Domingo (UASD) from Domican Republic 🇩🇴.
