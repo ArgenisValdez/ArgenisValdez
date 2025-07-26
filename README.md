@@ -56,7 +56,8 @@
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/ArgenisValdez/count.svg"/>
+  <img src="https://profile-counter.deno.dev/ArgenisValdez/count.svg" alt="Key:: Visitor's Count" />
+
 
 
 
