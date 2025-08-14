@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-- :school: I am a `Junior Dev` at Universidad Autonoma de Santo Domingo (UASD) from Domican Republic 🇩🇴.
+- :school: I am a `Dev` at Universidad Autonoma de Santo Domingo (UASD) from Domican Republic 🇩🇴.
 -  👨‍💻: Certifications in [Platzi](https://platzi.com/p/argenisvalde80/) and [Udemy](https://ude.my/UC-65539af6-2447-4a90-9010-9a5d4730619b)
 - :technologist: **Open to work**
 - :muscle: **Dedicated to personal and professional growth!**
